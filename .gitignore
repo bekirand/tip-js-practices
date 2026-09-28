@@ -9,3 +9,7 @@ Thumbs.db
 reference-tip-js/
 .agent/
 *.docx
+screenshot_kr1_task*.png
+take_kr1_*.py
+test_*_kr1.mjs
+build_kr1_*.py
