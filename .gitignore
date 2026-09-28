@@ -8,3 +8,4 @@ dist/
 Thumbs.db
 reference-tip-js/
 .agent/
+*.docx
