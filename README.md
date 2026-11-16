@@ -30,7 +30,7 @@
 | 6 | Подключение браузерного приложения к API | [practice-06](./practice-06/README.md) | **Выполнено** |
 | 7 | Создание компонентного интерфейса на React | [practice-07](./practice-07/README.md) | **Выполнено** |
 | 8 | Работа React-приложения с API | [practice-08](./practice-08/README.md) | **Выполнено** |
-| 9 | Создание собственного HTTP API на Express | [practice-09](./practice-09/README.md) | В планах |
+| 9 | Создание собственного HTTP API на Express | [practice-09](./practice-09/README.md) | **Выполнено** |
 | 10 | Реализация операций изменения данных и интеграция с клиентом | [practice-10](./practice-10/README.md) | В планах |
 | 11 | Проектирование и создание базы данных PostgreSQL | [practice-11](./practice-11/README.md) | В планах |
 | 12 | Подключение API к базе данных | [practice-12](./practice-12/README.md) | В планах |
